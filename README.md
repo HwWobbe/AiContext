@@ -58,6 +58,7 @@ See [`ContextLatticeStamp/Docs/FolderStructureGuide.md`](ContextLatticeStamp/Doc
 ## Status
 
 Active personal project. Structure is stable; tooling and documentation are expanding.
+- confirm Sync(s) are active and effective
 
 ---
 
