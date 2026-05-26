@@ -39,8 +39,9 @@ The core system. Build versioned JSON stamps of your working context, inject the
 
 See [`ContextLatticeStamp/Docs/FolderStructureGuide.md`](ContextLatticeStamp/Docs/FolderStructureGuide.md) for the full layout and decision rules.
 
-- also: 2026-05-11: updates & 2026-05-26 ( offline )
-  - ...
+- also:
+  - 2026-05-26: considering EndianNness
+  - 2026-05-11: updates & 2026-05-26 ( offline )
 
 ---
 
