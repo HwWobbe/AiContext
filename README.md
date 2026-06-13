@@ -14,7 +14,7 @@
 AI conversations are stateless. Every new session starts blank.  
 **AiContext** is a collection of tools and documents that solve that problem — capturing, compressing, and injecting context so AI picks up exactly where you left off.
 
-The philosophy: **denser is better**. A well-structured JSON stamp beats a wall of prose every time.
+The philosophy: "**denser is better**". A well-structured JSON stamp beats a wall of prose every time.
 
 ---
 
