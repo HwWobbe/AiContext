@@ -5,7 +5,7 @@
 >> ideally: 
 >>> based on a wiki Foundation,
 >>> AiH augmented,
->>> exploiting unicodeSymbols and nonWord stringPatterns.
+>>> exploiting unicodeSymbols and nonWord stringPatterns. ( GitCalTwe )
 
 ---
 
