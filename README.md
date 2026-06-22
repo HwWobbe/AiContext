@@ -81,6 +81,7 @@ TwH (markdown list):
     - Target 🧩
       - Active Work
 
+`
 🧩 Context Space
 ├─ Current 🧩 
 │  ├─ TbH 
@@ -91,6 +92,7 @@ TwH (markdown list):
 │  │     └─ Resume Points 
 │  └─ Target 🧩 
 │     └─ Active Work 
+`
 
 ----
 
