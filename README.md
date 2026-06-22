@@ -80,17 +80,17 @@ TwH (markdown list):
         - Resume Points
     - Target 🧩
       - Active Work
-      
+
 🧩 Context Space
-├─ Current 🧩
-│  ├─ TbH
-│  │  └─ Workflow Dispatcher
-│  │     ├─ Menus
-│  │     ├─ Launch Points
-│  │     ├─ Context Switches
-│  │     └─ Resume Points
-│  └─ Target 🧩
-│     └─ Active Work
+├─ Current 🧩 
+│  ├─ TbH 
+│  │  └─ Workflow Dispatcher 
+│  │     ├─ Menus 
+│  │     ├─ Launch Points 
+│  │     ├─ Context Switches 
+│  │     └─ Resume Points 
+│  └─ Target 🧩 
+│     └─ Active Work 
 
 ----
 
