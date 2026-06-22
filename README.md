@@ -69,6 +69,7 @@ Active personal project. Structure is stable; tooling and documentation are expa
 ----
 
 TwH (markdown list):
+
 - 🧩 Context Space
   - Current 🧩
     - TbH
@@ -80,5 +81,17 @@ TwH (markdown list):
     - Target 🧩
       - Active Work
       
+🧩 Context Space
+├─ Current 🧩
+│  ├─ TbH
+│  │  └─ Workflow Dispatcher
+│  │     ├─ Menus
+│  │     ├─ Launch Points
+│  │     ├─ Context Switches
+│  │     └─ Resume Points
+│  └─ Target 🧩
+│     └─ Active Work
+
+----
 
 *By [HwWobbe](https://github.com/HwWobbe)*
