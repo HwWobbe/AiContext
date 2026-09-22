@@ -1,6 +1,6 @@
 # AiContext
 
-> A personal toolkit for working smarter with AI — structured context, dense stamps, and portable session state.
+> A personal toolkit for working smarter with AI — structured context, dense stamps, and portable session state..
 >> currently just a preliminary assessment 
 >> ideally: 
 >>> based on a wiki Foundation and possible AiH augmented.
@@ -39,8 +39,9 @@ The core system. Build versioned JSON stamps of your working context, inject the
 
 See [`ContextLatticeStamp/Docs/FolderStructureGuide.md`](ContextLatticeStamp/Docs/FolderStructureGuide.md) for the full layout and decision rules.
 
-- also: 2026-05-11: updates ( offline )
-  - ...
+- also:
+  - 2026-05-26: considering EndianNess
+  - 2026-05-11: updates & 2026-05-26 ( offline )
 
 ---
 
@@ -58,6 +59,8 @@ See [`ContextLatticeStamp/Docs/FolderStructureGuide.md`](ContextLatticeStamp/Doc
 ## Status
 
 Active personal project. Structure is stable; tooling and documentation are expanding.
+- confirm Sync(s) are active and effective
+- Minimizing edits on this page reduces disruptions - leading to a "QualityCascade".
 
 ---
 
