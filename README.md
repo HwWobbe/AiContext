@@ -8,7 +8,7 @@
 >>> exploiting unicodeSymbols and nonWord stringPatterns. triggered via TwH( GitCalTwe ).
 
 .
-> refined '0 QuickLinks`
+> refined '0 QuickLinks` ( ㋉ )
 
 ----
 
