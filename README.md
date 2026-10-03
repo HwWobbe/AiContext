@@ -67,7 +67,7 @@ Active personal project. Structure is stable; tooling and documentation are expa
 - Minimizing edits on this page reduces disruptions - leading to a "QualityCascade" (but AiContext fixed)
 
 ### Plans:
-... merge ...
+... merge ... ( autoStnc? ) = toBeConfirned.
 
 -----
 
