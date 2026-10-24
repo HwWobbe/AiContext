@@ -40,7 +40,7 @@ def home():
       <body>
         <div class="card">
           <h1>Hello, World!</h1>
-          <p>This is a tiny Flask app created for learning.</p>
+          <p>This is a persistent local Flask app.</p>
         </div>
       </body>
     </html>
@@ -50,8 +50,9 @@ def home():
 def hello_api():
     return jsonify({
         "message": "Hello, World!",
-        "status": "ok"
+        "status": "ok",
+        "app": "persistent-local-flask"
     })
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="127.0.0.1", port=5000, debug=False)
